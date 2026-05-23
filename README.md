@@ -1,5 +1,5 @@
 # ATmega328P-PCB-Design
-ATmega328P based PCB designed EasyEDA for embedded system applications. Features an 8MHz crstal oscillator, reset circuitary, 4-digit seven segment display, LED indicators, push buttons, programming headers and essential supporting components for micrcontroller interfacing and hardware development. 
+ATmega328P based PCB designed EasyEDA for embedded system applications. Features an 8MHz crstal oscillator, reset circuitary, 2-digit seven segment display, LED indicators, push buttons, programming headers and essential supporting components for micrcontroller interfacing and hardware development. 
 # ATmega328P Custom PCB – Embedded System Board
 
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-008B8B?style=for-the-badge&logo=easyeda&logoColor=white)
