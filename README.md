@@ -24,7 +24,7 @@ The project demonstrates practical **PCB design**, **microcontroller interfacing
 |  **Microcontroller** | ATmega328P-PU |
 |  **Clock Source** | 8MHz Crystal Oscillator |
 |  **Reset Circuit** | Push button with pull-up resistor |
-|  **Display Interface** | 4-Digit Seven Segment Display |
+|  **Display Interface** | 2-Digit Seven Segment Display |
 |  **LED Indicators** | Status and power indication |
 |  **Push Button Inputs** | User input controls |
 |  **Programming Headers** | UART/FTDI programming interface |
@@ -55,10 +55,10 @@ The project demonstrates practical **PCB design**, **microcontroller interfacing
 | 8MHz Crystal Oscillator | 1 | Clock signal generation |
 | Capacitors (22pF, 0.1µF, 10µF) | Several | Circuit stabilization |
 | Resistors (220Ω, 10kΩ) | Several | Current limiting, pull-up |
-| Push Buttons | 3+ | User inputs + reset |
-| LEDs | 2+ | Status indication |
+| Push Buttons | 3 | User inputs + reset |
+| LEDs | 8 | Status indication |
 | Pin Headers | As needed | Programming and interfacing |
-| 4-Digit Seven Segment Display | 1 | Output display module |
+| 2-Digit Seven Segment Display | 1 | Output display module |
 | Voltage Regulator (5V) | 1 | Power regulation |
 
 ---
