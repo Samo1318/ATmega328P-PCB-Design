@@ -86,4 +86,3 @@ The project demonstrates practical **PCB design**, **microcontroller interfacing
 
 ---
 
-## 📁 Project Structure
